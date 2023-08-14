@@ -2,6 +2,7 @@
 
 - Desenvolvido com HTML, CSS e JavaScript
 - Responsivo para dispositivos mobile
+- Deploy: https://hdc-host-five.vercel.app
 
 ![hdc1](https://github.com/luan-marques/hdcHost/assets/116835778/c3a5af03-edfa-4885-aea4-cfeea64119f8)
 ![hdc2](https://github.com/luan-marques/hdcHost/assets/116835778/bdb7fe9a-4dbc-45f0-9fec-7a864193ab21)
@@ -9,4 +10,4 @@
 ![hdc4](https://github.com/luan-marques/hdcHost/assets/116835778/d30fe262-6fd9-4469-b898-2c76d611348e)
 
 
-deploy: https://hdc-host-five.vercel.app
+
